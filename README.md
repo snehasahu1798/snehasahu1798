@@ -1,4 +1,4 @@
-## Hey 👋, I'm Aditya Pandey!
+## Hey 👋, I'm Sneha Sahu!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
