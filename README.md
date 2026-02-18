@@ -25,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-brown?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-red?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
 
 ---
