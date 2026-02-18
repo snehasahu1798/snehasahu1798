@@ -12,21 +12,21 @@
 ⚙️ Strong in Backend Logic, Business Process Automation & API Integration  
 📊 Passionate about solving real-world business challenges  
 
-----
+---
 
 ## 🛠 Tech Focus
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
-![ERPNext](https://img.shields.io/badge/ERPNext-Advanced-green?style=for-the-badge)
-![Frappe](https://img.shields.io/badge/Frappe-Advanced-orange?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-Strong-red?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-Strong-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/MariaDB-Advanced-brown?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Professional-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![ERPNext](https://img.shields.io/badge/ERPNext-green?style=for-the-badge)
+![Frappe](https://img.shields.io/badge/Frappe-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-brown?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
 
 ---
 
