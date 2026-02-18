@@ -41,7 +41,7 @@
 ![Frappe](https://img.shields.io/badge/Frappe-Advanced-orange?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-yellow?style=for-the-badge)
 
----
+----
 
 ## 🔗 Connect With Me
 
