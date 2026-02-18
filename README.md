@@ -12,13 +12,21 @@
 ⚙️ Strong in Backend Logic, Business Process Automation & API Integration  
 📊 Passionate about solving real-world business challenges  
 
----
+----
 
-## 🛠 Tech Stack
+## 🛠 Tech Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,linux,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
+![ERPNext](https://img.shields.io/badge/ERPNext-Advanced-green?style=for-the-badge)
+![Frappe](https://img.shields.io/badge/Frappe-Advanced-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-Strong-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-Strong-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-Advanced-brown?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightgrey?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Professional-orange?style=for-the-badge)
 
 ---
 
@@ -33,15 +41,6 @@
 - Background Jobs & Scheduler Events 
 
 ---
-
-## 🛠 Tech Focus
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
-![ERPNext](https://img.shields.io/badge/ERPNext-Advanced-green?style=for-the-badge)
-![Frappe](https://img.shields.io/badge/Frappe-Advanced-orange?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-yellow?style=for-the-badge)
-
-----
 
 ## 🔗 Connect With Me
 
