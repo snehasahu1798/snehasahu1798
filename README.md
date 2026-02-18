@@ -1,47 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sneha Sahu</h1>
-<h3 align="center">🚀 Python Developer | ERPNext | Backend Developer</h3>
-
+<!-- PROFILE BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehasahu1798&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="profile-banner.png" width="400" style="border-radius: 15px;" />
+</p>
+
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=30&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sneha+Sahu;Python+Developer;ERPNext+%26+Frappe+Specialist;Backend+Automation+Engineer" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-- 💻 Python Developer with hands-on experience in **ERPNext & Frappe Framework**
-- 🏢 Specialized in building and customizing **ERP solutions**
-- 🔄 Experienced in **Workflow Automation & Backend Logic Development**
-- 📊 Skilled in creating **Script Reports & Query Reports**
-- 🛠 Passionate about solving real-world business problems through automation
-
----
-
-## 🚀 ERPNext & Frappe Expertise
-
-✔️ Custom DocType Development  
-✔️ Client Scripts & Server Scripts  
-✔️ Workflow Automation  
-✔️ Custom ERP Modules  
-✔️ REST API Integrations  
-✔️ Role & Permission Management  
-✔️ ERPNext Deployment & Setup  
-✔️ Background Jobs & Scheduler Events  
+💻 Python Developer with hands-on experience in **ERPNext & Frappe Framework**  
+🏢 Specialized in building **Custom ERP Solutions & Workflow Automation**  
+⚙️ Strong in Backend Logic, Business Process Automation & API Integration  
+📊 Passionate about solving real-world business challenges  
 
 ---
 
-## 🧠 Sample ERPNext Server Script
+## 🛠 Tech Stack
 
-```python
-import frappe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,linux,vscode" />
+</p>
 
-@frappe.whitelist()
-def create_customer(name, email):
-    customer = frappe.get_doc({
-        "doctype": "Customer",
-        "customer_name": name,
-        "email_id": email
-    })
-    customer.insert(ignore_permissions=True)
-    frappe.db.commit()
-    return "Customer Created Successfully"
+---
+
+## 🧠 ERPNext Expertise
+
+✨ Custom DocTypes & Modules  
+✨ Client & Server Scripts  
+✨ Script & Query Reports  
+✨ Workflow Automation  
+✨ REST API Integration  
+✨ ERPNext Deployment  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasahu1798&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehasahu1798&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
